@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://s6.postimg.org/f799y34nl/gala_tv_1.png" group-title="MEXICO",Gala TV | BC-SD
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_11/medium.5a0ed0391ab51_CanalCatorce.png.63903827d9772496ec9b5bc8eb190fd9.png" group-title="MEXICO",CANAL CATORCE | SD
 https://urtmpkal-f.akamaihd.net/i/0asyje386_1@136478/index_3_av-p.m3u8?sd=10&rebase=on
 
