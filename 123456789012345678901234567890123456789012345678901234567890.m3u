@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/5/56/Canal_22.2/revision/latest?cb=20160807173756" group-title="MEXICO",CANAL 22.2 | HD
-https://livestream-f.akamaihd.net/i/16458468_6932143_14360441_1@39006/index_1032_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1514468322~acl=%2fi%2f16458468_6932143_14360441_1%4039006%2f*~data=hdntl~hmac=1e7a75ac4cb80d166702679a6276d98ea95c74322a4a288cedf59122c6082454
-
 #EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png" group-title="MEXICO",RCG 1 BC-SD
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
